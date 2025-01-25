@@ -1,6 +1,13 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthabarnum&layout=compact)
+# Hi there 👋
+I'm Samantha, a senior Computer Science student, streamer, and chaotic Sims 4 player. Welcome to my corner of GitHub!  
+🎮 I stream on Twitch, no I won't broadcast my username publicly!
+💻 I’m currently learning IT systems and Git mastery.  
+🌱 Fun fact: I’ve been playing FFXIV since ARR launch.
 
-I'm currently in college, a senior in Computer Science, and need help with..... more than I care to admit.  Imposter syndrome amirite?
+![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthabarnum&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthabarnum&layout=compact&theme=tokyonight)
+
+
 
 <!--
 **samanthabarnum/samanthabarnum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
