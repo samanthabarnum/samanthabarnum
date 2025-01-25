@@ -1,5 +1,4 @@
 # Hi there 👋
-I'm Samantha, a senior Computer Science student, streamer, and chaotic Sims 4 player. Welcome to my corner of GitHub!  
 
 🌱 Fun fact: I’ve been playing FFXIV since ARR launch.
 
