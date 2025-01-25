@@ -1,7 +1,6 @@
 # Hi there 👋
 I'm Samantha, a senior Computer Science student, streamer, and chaotic Sims 4 player. Welcome to my corner of GitHub!  
-🎮 I stream on Twitch, no I won't broadcast my username publicly!
-💻 I’m currently learning IT systems and Git mastery.  
+
 🌱 Fun fact: I’ve been playing FFXIV since ARR launch.
 
 <!--![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthabarnum&show_icons=true&theme=tokyonight)-->
