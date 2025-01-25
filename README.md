@@ -4,7 +4,7 @@ I'm Samantha, a senior Computer Science student, streamer, and chaotic Sims 4 pl
 💻 I’m currently learning IT systems and Git mastery.  
 🌱 Fun fact: I’ve been playing FFXIV since ARR launch.
 
-![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthabarnum&show_icons=true&theme=tokyonight)
+<!--![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthabarnum&show_icons=true&theme=tokyonight)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthabarnum&layout=compact&theme=tokyonight)
 
 
